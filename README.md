@@ -23,8 +23,6 @@ The architecture illustrates the flow of data through various components, starti
 **Modern Data Pipeline Tool** - An advanced data pipeline tool that facilitates seamless data workflows.
 - Mage: https://www.mage.ai/
 
-Contribute to this open-source project - https://github.com/mage-ai/mage-ai
-
 ## Dataset Used
 
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
