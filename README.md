@@ -1,4 +1,4 @@
-# Uber Data Analytics | Data Engineering GCP Project
+# Uber Data Analytics | Data Analysis GCP Project
 
 ## Introduction
 The project leverages various tools and technologies on the Google Cloud Platform (GCP) to perform insightful data analytics. The goal of this project is to perform data analytics on Uber data using GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio to analyze and visualize Uber trip records. The open-source nature of this project allows contributors to enhance and expand their capabilities, fostering collaboration and innovation.
