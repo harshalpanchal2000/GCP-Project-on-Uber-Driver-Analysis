@@ -27,7 +27,7 @@ The architecture illustrates the flow of data through various components, starti
 
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Here is the dataset used in the project - https://raw.githubusercontent.com/Kavyagandhi23/Uber-Data-Analysis-GCP/main/uber_data.csv
+Here is the dataset used in the project - https://raw.githubusercontent.com/harshalpanchal2000/Uber-Data-Analysis-GCP/main/uber_data.csv
 
 More info about the dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
